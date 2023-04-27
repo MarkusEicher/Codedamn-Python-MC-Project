@@ -1,4 +1,4 @@
 {
-    "sedentary_alerts": true,
-    "interval": 20
+  "sedentary_alert": false,
+  "interval": 20
 }
